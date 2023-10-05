@@ -18,4 +18,11 @@ final dp state:
 
 as you may have noticed above, there are 3 changes of values
 from 2 -> 1 -> 0
+
+starting at 13
+
+then,
+position 9
+position 5
+position 1
 ```
